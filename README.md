@@ -20,8 +20,8 @@ git clone https://github.com/Over-EducatedFool/Giveaway-Bot
 * Fill configuration (config.json):
 ```json
 {
-    "token": "Your discord bot token",
-    "prefix": "g!",
+    "token": "OTU2MjEwNTIyMDExODY5MjM0.GVzrY-.MRTsOEnS02rmzIodgXUF916cLom2OhBtvNUCGs",
+    "prefix": "!",
     "everyoneMention": true,
     "hostedBy": true
 }
